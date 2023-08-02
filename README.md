@@ -17,6 +17,8 @@ Future projects to make :
 - comparison of softmax vs. self-learned estimate of performance (i.e generalising AlphaFold 2's plddt principle to all models)
 - Antartica/Greenland ice-free terrain maps in UE
 - re-do a simple pixel-value satellite img segmenter?
+- something with dither (for images)?
+- explore matching sounds/look at differences/distances between sound bits?
 
 Done : 
 - video on quick speedrun of simulating the "Painting by Numbers" process (see YT + short projects repo)
