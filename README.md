@@ -18,6 +18,7 @@ Future projects to make :
 - Antartica/Greenland ice-free terrain maps in UE
 - re-do a simple pixel-value satellite img segmenter?
 - something with dither (for images)?
+- re-make a hillshade map algorithm
 - explore matching sounds/look at differences/distances between sound bits?
 
 Done : 
