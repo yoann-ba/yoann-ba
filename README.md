@@ -7,7 +7,6 @@ Past projects to re-upload/re-format :
 - make video + repo on satellite data, sentinelhub example (UE terrain integration example?)
 - make video on past Unity AI sims (genetic algo)
 - make video on past game dev projects? (all Unity/UE game stuff?)
-- make repo for my general utils/tips files/memos
 - make video (+code) on overview/explanation of color spaces (for Data Science)
 
 Future projects to make : 
@@ -22,6 +21,7 @@ Done :
 - video on quick project of simulating the "Painting by Numbers" process (see YT + short projects repo)
 - finishing a paper on ColabFold PepPI (paper + repo)
 - make video on intro to AI/Data Science
+- make repo for my general utils/tips files/memos
 
 
 
