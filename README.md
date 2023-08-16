@@ -1,11 +1,8 @@
 
 Current projects :
-- finishing a paper on ColabFold PepPI (paper + repo)
-- video on it afterwards
+- make videos + a repo on terrain simulation (perlin noise explanation/example, past work on erosion, integration into Unity/UE)
 
 Past projects to re-upload/re-format : 
-- make videos + a repo on terrain simulation (perlin noise explanation/example, past work on erosion, integration into Unity/UE)
-- make video on intro to AI/Data Science (for someone outside of the field, overview of major paradigms, the evolution until today and why they may have heard of certain models at certain times)
 - video on biology basics for non-biology Data Scientist
 - make video + repo on satellite data, sentinelhub example (UE terrain integration example?)
 - make video on past Unity AI sims (genetic algo)
@@ -22,7 +19,9 @@ Future projects to make :
 - explore matching sounds/look at differences/distances between sound bits?
 
 Done : 
-- video on quick speedrun of simulating the "Painting by Numbers" process (see YT + short projects repo)
+- video on quick project of simulating the "Painting by Numbers" process (see YT + short projects repo)
+- finishing a paper on ColabFold PepPI (paper + repo)
+- make video on intro to AI/Data Science
 
 
 
