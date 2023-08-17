@@ -1,10 +1,10 @@
 
 Current projects :
-- make videos + a repo on terrain simulation (perlin noise explanation/example, past work on erosion, integration into Unity/UE)
+- make videos + a repo on terrain simulation (perlin noise explanation/example, past work on erosion simulation, integration into Unity/UE, minecraft-style maps)
 
 Past projects to re-upload/re-format : 
-- video on biology basics for non-biology Data Scientist
-- make video + repo on satellite data, sentinelhub example (UE terrain integration example?)
+- make video on biology basics for non-biology Data Scientist
+- make video + repo on satellite data, sentinelhub example (UE real heightmap integration example?)
 - make video on past Unity AI sims (genetic algo)
 - make video on past game dev projects? (all Unity/UE game stuff?)
 - make video (+code) on overview/explanation of color spaces (for Data Science)
