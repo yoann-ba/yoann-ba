@@ -1,6 +1,15 @@
+New GitHub profile where I'm just recently uploading current and past works, still a WIP to re-document old things properly.
+
+Done : 
+- video on quick project of simulating the "Painting by Numbers" process (see YT + short projects repo, video isn't the best as it's the first one and I try to do them in one take.)
+- finishing a paper on ColabFold PepPI (paper + repo)
+- make video on intro to AI/Data Science
+- make repo for my general utils/tips files/memos
 
 Current projects :
 - make videos + a repo on terrain simulation (perlin noise explanation/example, past work on erosion simulation, integration into Unity/UE, minecraft-style maps)
+
+----
 
 Past projects to re-upload/re-format : 
 - make video on biology basics for non-biology Data Scientist
@@ -16,12 +25,6 @@ Future projects to make :
 - something with dither (for images)?
 - re-make a hillshade map algorithm
 - explore matching sounds/look at differences/distances between sound bits?
-
-Done : 
-- video on quick project of simulating the "Painting by Numbers" process (see YT + short projects repo)
-- finishing a paper on ColabFold PepPI (paper + repo)
-- make video on intro to AI/Data Science
-- make repo for my general utils/tips files/memos
 
 
 
