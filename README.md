@@ -20,6 +20,9 @@ Future projects to make :
 - something with dither (for images)? make the amogus dithering actual global dithering?
 - re-make a hillshade map algorithm
 - explore matching sounds/look at differences/distances between sound bits?
+- mix of procedural generation and an ML model to explore the space of parameters of the procedural gen
+- automatic color palette stuff, comparing baseline general color theory vs. ML model made on subjective taste (also as a shader or game stylizing?)
+- 
 
 ----
 
