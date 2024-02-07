@@ -8,10 +8,9 @@ Current projects :
 
 Past projects to re-upload/re-format : 
 - make video on biology basics for non-biology Data Scientist
-- make video + repo on satellite data, sentinelhub example (UE real heightmap integration example?)
 - make video on past Unity AI sims (genetic algo)
 - make video on past game dev projects? (all Unity/UE game stuff?)
-- make video (+code) on overview/explanation of color spaces (for Data Science)
+- make video (+code) on overview/explanation of color spaces (for Data Science)?
 
 Future projects to make : 
 - comparison of softmax vs. self-learned estimate of performance (i.e generalising AlphaFold 2's plddt principle to all models)
@@ -23,16 +22,5 @@ Future projects to make :
 - mix of procedural generation and an ML model to explore the space of parameters of the procedural gen
 - automatic color palette stuff, comparing baseline general color theory vs. ML model made on subjective taste (also as a shader or game stylizing?)
 - 
-
-----
-
-Done : 
-- video on quick project of simulating the "Painting by Numbers" process (see YT + short projects repo, video isn't the best as it's the first one and I try to do them in one take.)
-- finishing a paper on ColabFold PepPI (paper + repo)
-- make video on intro to AI/Data Science
-- make repo for my general utils/tips files/memos
-- result video for Minecraft-style terrain simulation (img gen in Python, shown in UE5)
-- code + img + notebook for amogus dithering
-
 
 
