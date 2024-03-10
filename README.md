@@ -5,6 +5,7 @@ For my short paper/article on the use of ColabFold for PepPI prediction, see [th
 Current projects :
 - catching up on neurips 2023 and other confs, adding other older paper summaries
 - make videos + a repo on terrain simulation (perlin noise explanation/example, past work on erosion simulation, integration into Unity/UE, minecraft-style maps)
+- spikeball ball tracking AI (on video)
 
 ----
 
