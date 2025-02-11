@@ -1,4 +1,4 @@
-GitHub profile where I'm just recently uploading current and past personal works, still a WIP to re-document old things properly.
+GitHub profile where I'm just recently uploading current and past personal works, still a WIP to re-document old things properly. Haven't yet added my current fullstack dev school projects.
 
 For my short paper/article on the use of ColabFold for PepPI prediction, see [this repo](https://github.com/yoann-ba/ColabFold_PepPI_files)
 
