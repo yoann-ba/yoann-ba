@@ -1,5 +1,5 @@
 # [Full-Stack Developer GitHub (other profile)](https://github.com/Yoann-B-ENI)
-# [YouTube Channel (mostly Computer Vision, this profile))](https://www.youtube.com/channel/UCF7LydIrqAgz4yRLbXo3Ojg)
+# [YouTube Channel (mostly Computer Vision, this profile)](https://www.youtube.com/channel/UCF7LydIrqAgz4yRLbXo3Ojg)
 # [R&D Paper (this profile)](https://github.com/yoann-ba/ColabFold_PepPI_files)
 
 For my current school, full-stack dev projects, see the Yoann-B-ENI GitHub profile above. (Java Spring, PHP Symfony, Angular, Kotlin, Flutter, NodeJS). 
