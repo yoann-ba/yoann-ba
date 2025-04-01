@@ -2,7 +2,8 @@
 ##  [YouTube Channel (mostly Computer Vision, this profile)](https://www.youtube.com/channel/UCF7LydIrqAgz4yRLbXo3Ojg)
 ##  [R&D Short Paper (this profile)](https://github.com/yoann-ba/ColabFold_PepPI_files)
 
-For my current school, full-stack dev projects, see the Yoann-B-ENI GitHub profile above. (Java Spring, PHP Symfony, Angular, Kotlin, Flutter, NodeJS). 
+For my current school, full-stack dev projects, see the Yoann-B-ENI GitHub profile above (Java Spring, PHP Symfony, Angular, Kotlin, Flutter, NodeJS). 
+
 In this GitHub, my personal projects on Data Science & Computer Vision. 
 
 For my short paper/article on the use of ColabFold for PepPI prediction, see [this repo](https://github.com/yoann-ba/ColabFold_PepPI_files)
